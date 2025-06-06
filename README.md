@@ -125,7 +125,7 @@ French (native), English (fluent)
 
 <p align="left">
 
-<a href="https://linkedin.com/in/arno-vifian" target="_blank">
+<a href="https://www.linkedin.com/in/arno-vifian-732478278/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-arno--vifian-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
