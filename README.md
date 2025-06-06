@@ -8,7 +8,6 @@
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 - Quantitative Economics student at University of Geneva (BSc, 2026)  
 - Currently on an exchange at EPFL in Computer Science (focused on Time Series Analysis, Algorithms, and Machine Learning)  
@@ -35,7 +34,8 @@
   - Combined GPT-4o for code generation and Video-LLaMA2B for AI-powered plot interpretation (via custom Hugging Face endpoint)  
   - Designed a privacy-first architecture: only metadata is shared with the LLM; all code is executed locally  
   - Implemented features such as automatic data profiling, smart cleaning (mean/knn/drop), multimodal analysis, and exportable insights  
-  - Delivered real-time, explainable analytics through a seamless UI and received top prize out of 100+ participants  
+  - Delivered real-time, explainable analytics through a seamless UI and awarded **1st place (GenAI APIs Track)**
+  - An extended version is in development with **MongoDB (NoSQL)** and **Oracle (SQL)** integration, plus **ML-powered deep data analysis** for richer insights  
 
 - [**Kaggle - Binary Rainfall Prediction**](https://github.com/rav-lad/kaggle-binary-rainfall)  
   Binary rain prediction from tabular weather data (Kaggle competition)  
