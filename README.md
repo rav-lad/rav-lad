@@ -49,14 +49,14 @@
 
 <p align="center">
 
-### 🧪 Languages  
+###  Languages  
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
 
-### 📊 Data Science & Analysis  
+###  Data Science & Analysis  
 ![Stata](https://img.shields.io/badge/Stata-0057B8?style=for-the-badge&logo=stata&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-EB3C00?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -66,12 +66,12 @@
 
 <br>
 
-### 📈 Machine Learning / Econometrics  
+###  Machine Learning / Econometrics  
 OLS, DiD (Difference-in-Differences), Panel Data (Fixed / Random Effects), Time Series Forecasting (ARIMA, TFT), Causal Inference, Statistical Inference
 
 <br>
 
-### ☁️ Cloud & AWS Ecosystem  
+###  Cloud & AWS Ecosystem  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -84,7 +84,7 @@ _AWS Certified AI Practitioner_
 
 <br>
 
-### 🧰 Tools  
+###  Tools  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -93,14 +93,14 @@ _AWS Certified AI Practitioner_
 
 <br>
 
-### 🤖 GenAI, APIs & Visualization  
+###  GenAI, APIs & Visualization  
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFB94B?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 <br>
 
-### 🌐 Other  
+###  Other  
 French (native), English (fluent)
 
 </p>
@@ -120,20 +120,34 @@ French (native), English (fluent)
 
 ---
 
-## 🤝 **Let's Connect!**
+##  **Let's Connect!**
+<br>
 
-<div align='left'>
+<p align="left">
 
-- [![LinkedIn](https://img.shields.io/badge/linkedin: arno--vifian-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arno-vifian)
-- [![Gmail](https://img.shields.io/badge/gmail: arno.vfn-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arno.vfn@gmail.com)
+<a href="https://linkedin.com/in/arno-vifian" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-arno--vifian-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
-</div>
+<a href="mailto:arno.vfn@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-arno.vfn-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+
+<a href="https://devpost.com/2Fick" target="_blank">
+  <img src="https://img.shields.io/badge/Devpost-Profile-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost Badge"/>
+</a>
+
+<a href="https://www.kaggle.com/ravvvvvvvvvvvv" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-ravvvvvvvvvvvv-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-## ✨ **Thanks for visiting!**
+##  **Thanks for visiting!**
 
 </div>
 
