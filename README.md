@@ -12,12 +12,12 @@
 
 <br>
 
-- Quantitative economics student at University of Geneva (BSc, 2025)
+- Quantitative Economics student at University of Geneva (BSc, 2026)
+- Currently on an exchange at EPFL in Computer Science (focused on Time Series Analysis, Algorithms, and Machine Learning)
 - Passionate about machine learning, time series, causal inference, and applied data analysis
 - Enjoy tackling real-world problems using data-driven and quantitative methods
 - Open source projects focused on data science, modeling, and forecasting
-- Open to internships or data projects from 2025 onwards
-- [CV: Email me](mailto:arno.vfn@gmail.com) • [LinkedIn](https://linkedin.com/in/arno-vifian) • [GitHub](https://github.com/rav-lad)
+- Open to internships or data projects from 2026 onwards
 
 <br><br>
 
@@ -25,11 +25,11 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Featured Projects</b>
 
-- [**MeteoPredictor**](https://github.com/rav-lad/MeteoPredictor)  
-  Weather-based energy consumption forecasting with ML  
-  - Models: XGBoost, Quantile LightGBM, TFT  
-  - 8% MAPE at 50th quantile across multiple cities  
-  - Time series decomposition & feature engineering for robustness
+- [**energy-demand-consumption**](https://github.com/rav-lad/energy-demand-consumption)  
+  Predicting electricity and gas consumption in France's largest cities using weather data  
+  - Built robust ML models to forecast energy demand based on real-time meteorological features  
+  - Separate models for electricity and gas, leveraging time series decomposition  
+  - Achieved high accuracy on multiple major French cities
 
 - [**Kaggle - Binary Rainfall Prediction**](https://github.com/rav-lad/kaggle-binary-rainfall)  
   Binary rain prediction from tabular weather data (Kaggle competition)  
@@ -37,10 +37,11 @@
   - 89% accuracy on hidden test set  
   - Advanced preprocessing & stacking
 
-- [**Policy Paper – Carbon Bonuses & Pollution**](https://github.com/rav-lad/carbon-bonus-impact)  
-  Causal impact of Swiss carbon bonuses on car pollution  
-  - Methods: Difference-in-Differences, OLS  
-  - Result: modest CO₂ reduction, increased EV sales
+- [**DataLive (Hackathon Project)**](https://github.com/rav-lad/DataLiveTest)  
+  Real-time visualization and alerting platform for live environmental data (LauzHack 2023)  
+  - Built a dashboard for streaming, analyzing, and alerting on live air quality and weather data  
+  - Used Python, Streamlit, and AWS services for scalable deployment  
+  - Focused on actionable insights and user-friendly UI
 
 <br>
 
@@ -70,6 +71,16 @@
 
 <br>
 
+- **Cloud & AWS Ecosystem**:
+
+    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+    ![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+    ![Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+    _AWS Certified AI Practitioner_
+
+<br>
+
 - **Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -80,7 +91,7 @@
 <br>
 
 - **Other**:  
-  French (native), English (fluent), AWS Certified AI Practitioner
+  French (native), English (fluent)
 
 </p>
 
