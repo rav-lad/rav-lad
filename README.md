@@ -9,7 +9,7 @@
 ##  **About Me**
 
 
-- Quantitative Economics student at University of Geneva (BSc, 2026)  
+- Quantitative Economics student at University of Geneva (BSc, 2025)  
 - Currently on an exchange at EPFL in Computer Science (focused on Time Series Analysis, Algorithms, and Machine Learning)  
 - Passionate about machine learning, time series, causal inference, and applied data analysis  
 - Enjoy tackling real-world problems using data-driven and quantitative methods  
