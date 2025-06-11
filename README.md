@@ -37,7 +37,7 @@
   - Delivered real-time, explainable analytics through a seamless UI and awarded **1st place (GenAI APIs Track)**
   - An extended version is in development with **MongoDB (NoSQL)** and **Oracle (SQL)** integration, plus **ML-powered deep data analysis** for richer insights  
 
-- [**Kaggle - DRW Crypto Market Prediction**](https://www.kaggle.com/competitions/drw-crypto-market-prediction)
+- [**Kaggle - DRW Crypto Market Prediction**]((https://github.com/rav-lad/dw-crypto-market-prediction))
   Predict short-term crypto price direction from proprietary + public market data (Kaggle competition)
 
   * EDA: time series diagnostics (ADF, ACF/PACF, Ljung-Box), Mutual Information, PCA
