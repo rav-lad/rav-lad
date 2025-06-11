@@ -37,11 +37,13 @@
   - Delivered real-time, explainable analytics through a seamless UI and awarded **1st place (GenAI APIs Track)**
   - An extended version is in development with **MongoDB (NoSQL)** and **Oracle (SQL)** integration, plus **ML-powered deep data analysis** for richer insights  
 
-- [**Kaggle - Binary Rainfall Prediction**](https://github.com/rav-lad/kaggle-binary-rainfall)  
-  Binary rain prediction from tabular weather data (Kaggle competition)  
-  - Ensemble: XGBoost, LightGBM, RF, CatBoost, CNN  
-  - 89% accuracy on hidden test set  
-  - Advanced preprocessing & stacking  
+- [**Kaggle - DRW Crypto Market Prediction**](https://www.kaggle.com/competitions/drw-crypto-market-prediction)
+  Predict short-term crypto price direction from proprietary + public market data (Kaggle competition)
+
+  * EDA: time series diagnostics (ADF, ACF/PACF, Ljung-Box), Mutual Information, PCA
+  * Models: XGBoost, LightGBM with walk-forward validation
+  * Public leaderboard score: **0.11 (Pearson correlation)**
+  * Feature selection, outlier detection, and non-linear modeling on 895 features
 
 ---
 
