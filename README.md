@@ -48,7 +48,7 @@
   * Public leaderboard score: **0.11 (Pearson correlation)**
   * Feature selection, outlier detection, and non-linear modeling on 895 features
 
- More experiments and competitions at [my Kaggle profile](https://www.kaggle.com/rav-lad)
+ More experiments and competitions at [my Kaggle profile](https://www.kaggle.com/ravvvvvvvvvvvv)
 
 ---
 
