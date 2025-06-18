@@ -28,14 +28,17 @@
   - Achieved high accuracy on both electricity and gas across multiple French cities, with uncertainty estimates via quantile models  
   - Structured for reproducibility and extensibility: ready-to-train scripts, preprocessed Kaggle dataset, and support for multivariate outputs  
 
-- [**DataLive (Hackathon Project)**](https://github.com/rav-lad/DataLiveTest)  
-  Multimodal AI assistant for interactive data exploration — *LauzHack Mini-Hackathon 2025*  
-  - Built a Streamlit-based web app that lets users upload `.csv` files and query their data using natural language  
-  - Combined GPT-4o for code generation and Video-LLaMA2B for AI-powered plot interpretation (via custom Hugging Face endpoint)  
-  - Designed a privacy-first architecture: only metadata is shared with the LLM; all code is executed locally  
-  - Implemented features such as automatic data profiling, smart cleaning (mean/knn/drop), multimodal analysis, and exportable insights  
-  - Delivered real-time, explainable analytics through a seamless UI and awarded **1st place (GenAI APIs Track)**
-  - An extended version is in development with **MongoDB (NoSQL)** and **Oracle (SQL)** integration, plus **ML-powered deep data analysis** for richer insights  
+* [**DataLive (from Hackathon to Ongoing Project)**](https://github.com/rav-lad/DataLiveV2)
+  Multimodal AI assistant for advanced data analysis and finance — *Started at LauzHack Mini-Hackathon 2025, now extended into full project*
+  * Originally developed as a Streamlit-based web app that allows users to upload `.csv` files and query data using natural language
+  * Combined GPT-4o for code generation and Video-LLaMA2B for AI-powered plot interpretation (via custom Hugging Face endpoint)
+  * Designed a privacy-first architecture: only metadata is shared with the LLM; all code is executed locally
+  * Implemented features like automatic data profiling, smart cleaning (mean/knn/drop), multimodal analysis, and exportable insights
+  * Awarded **1st place (GenAI APIs Track)** at LauzHack 2025
+  * Now extended with **Oracle (SQL)** integration in addition to **MongoDB (NoSQL)**, enabling hybrid database support
+  * Added **Finance Module**: load market tickers, perform advanced statistical analysis, compute financial metrics (fundamentals: overview, balance sheet, income, cashflow), volatility forecasting, and mean-reversion detection
+  * In-progress: **Black-Scholes option pricing** integration
+  * Transitioned from Streamlit to a full **desktop application** for improved performance, control, and richer UI/UX
 
 - [**Kaggle - DRW Crypto Market Prediction**](https://github.com/rav-lad/dw-crypto-market-prediction)
   Predict short-term crypto price direction from proprietary + public market data (Kaggle competition)
@@ -44,6 +47,8 @@
   * Models: XGBoost, LightGBM with walk-forward validation
   * Public leaderboard score: **0.11 (Pearson correlation)**
   * Feature selection, outlier detection, and non-linear modeling on 895 features
+
+ More experiments and competitions at [my Kaggle profile](https://www.kaggle.com/rav-lad)
 
 ---
 
