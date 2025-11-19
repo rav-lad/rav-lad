@@ -8,48 +8,78 @@
 
 ##  **About Me**
 
-
-- Quantitative Economics student at University of Geneva (BSc, 2025)  
-- Currently on an exchange at EPFL in Computer Science (focused on Time Series Analysis, Algorithms, and Machine Learning)  
 - Passionate about machine learning, time series, causal inference, and applied data analysis  
-- Enjoy tackling real-world problems using data-driven and quantitative methods  
 - Open source projects focused on data science, modeling, and forecasting  
-- Open to internships or data projects from 2026 onwards  
 
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> **Featured Projects**
 
-- [**energy-demand-consumption**](https://github.com/rav-lad/energy-demand-consumption)  
-  Time series forecasting of regional electricity and gas consumption in France (2013–2024)  
-  - Built multiple ML pipelines (TFT, XGBoost, LightGBM, Ridge/Lasso) to predict energy demand using regional weather-conditioned inputs  
-  - Integrated data from Open-Meteo API and data.gouv.fr, aligned by INSEE regions for daily/hourly resolution  
-  - Designed modular Jupyter notebooks for scenario-specific forecasting (lags, covariates, quantile prediction)  
-  - Achieved high accuracy on both electricity and gas across multiple French cities, with uncertainty estimates via quantile models  
-  - Structured for reproducibility and extensibility: ready-to-train scripts, preprocessed Kaggle dataset, and support for multivariate outputs  
+## **1. InsiderSignals — Insider Trading Intelligence Platform**
 
-* [**DataLive (from Hackathon to Ongoing Project)**](https://github.com/rav-lad/DataLiveV2)
-  Multimodal AI assistant for advanced data analysis and finance — *Started at LauzHack Mini-Hackathon 2025, now extended into full project*
-  * Originally developed as a Streamlit-based web app that allows users to upload `.csv` files and query data using natural language
-  * Combined GPT-4o for code generation and Video-LLaMA2B for AI-powered plot interpretation (via custom Hugging Face endpoint)
-  * Designed a privacy-first architecture: only metadata is shared with the LLM; all code is executed locally
-  * Implemented features like automatic data profiling, smart cleaning (mean/knn/drop), multimodal analysis, and exportable insights
-  * Awarded **1st place (GenAI APIs Track)** at LauzHack 2025
-  * Now extended with **Oracle (SQL)** integration in addition to **MongoDB (NoSQL)**, enabling hybrid database support
-  * Added **Finance Module**: load market tickers, perform advanced statistical analysis, compute financial metrics (fundamentals: overview, balance sheet, income, cashflow), volatility forecasting, and mean-reversion detection
-  * In-progress: **Black-Scholes option pricing** integration
-  * Transitioned from Streamlit to a full **desktop application** for improved performance, control, and richer UI/UX
+🔗 **Website:** [https://insidersignals.cloud](https://insidersignals.cloud)
 
-- [**Kaggle - DRW Crypto Market Prediction**](https://github.com/rav-lad/dw-crypto-market-prediction)
-  Predict short-term crypto price direction from proprietary + public market data (Kaggle competition)
+A full-stack platform that processes and analyses **over 1,000,000 insider, political, and crypto-whale transactions**.
+Includes automated data ingestion, ML scoring and interactive dashboards for equity and event-driven screening.
 
-  * EDA: time series diagnostics (ADF, ACF/PACF, Ljung-Box), Mutual Information, PCA
-  * Models: XGBoost, LightGBM with walk-forward validation
-  * Public leaderboard score: **0.11 (Pearson correlation)**
-  * Feature selection, outlier detection, and non-linear modeling on 895 features
+**Highlights**
 
- More experiments and competitions at [my Kaggle profile](https://www.kaggle.com/ravvvvvvvvvvvv)
+* Built end-to-end system: data ingestion (APIs, scraping, ETL), PostgreSQL storage, background workers
+* Developed an intelligent scoring agent combining behavioural features, anomaly detection and ML models
+* Delivered production-ready infrastructure (Docker, Traefik, GitHub Actions)
+* Built dashboards for unusual trades, insider clusters and market signals
+* Fully operational and actively used for real-world screening workflows
 
+---
+
+## **2. Energy Demand & Price Forecasting — ML + Trading Pipeline**
+
+🔗 **GitHub:** [https://github.com/rav-lad/energy-demand-forecast](https://github.com/rav-lad/energy-demand-forecast)
+
+A complete forecasting and trading system trained on **700 days** of French electricity & weather data.
+
+**Highlights**
+
+* Designed a full ML pipeline (XGBoost, LightGBM, Random Forest, GRU) with strict leakage prevention
+* Engineered temporal, rolling and meteorological features
+* Achieved **R² = 0.686** and realistic **MAPE ≈ 30%**
+* Built and backtested a trading strategy delivering **Sharpe 1.65**, including costs and risk controls
+
+---
+
+## **3. WheatVision — Satellite-Based Wheat Futures Prediction**
+
+🔗 **GitHub:** [https://github.com/rav-lad/wheat-sat](https://github.com/rav-lad/wheat-sat)
+
+A machine learning pipeline predicting CBOT wheat futures returns using **Sentinel-2 satellite imagery**, **ERA5 weather**, and **USDA crop maps**.
+
+**Highlights**
+
+* Processed NDVI/NDWI/NDMI vegetation indices for ~150 wheat zones across major US states
+* Integrated satellite, weather and futures data into a weekly panel dataset
+* Trained LightGBM/XGBoost models with strict walk-forward validation
+* Performed quantitative backtesting (IC, accuracy, F1, Sharpe) with extensive leakage tests
+* Full research pipeline with notebooks, scripts, and LaTeX paper
+
+---
+
+## **4. DataExplain — Automated Data Analysis Platform (In Development)**
+
+🔗 **GitHub:** [https://github.com/rav-lad/DataExplain](https://github.com/rav-lad/DataExplain)
+
+A full-stack platform that lets small businesses upload Excel/CSV data and automatically receive **structured insights, KPIs, charts and a downloadable PDF report**, without needing a data analyst.
+
+**Highlights**
+
+* Backend: FastAPI, PostgreSQL, MinIO, Celery, Ollama/OpenAI
+* Frontend: React 18 + TypeScript + Vite
+* Three-agent architecture:
+
+  * **Ingestion Agent** → detects structure, issues, column types
+  * **Analysis Agent** → computes KPIs, insights, graphs
+  * **Report Agent** → generates professional PDF reports via WeasyPrint
+* Secure multi-project system with authentication, job tracking and file isolation
+* Docker Compose deployment with Nginx reverse proxy
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> **Skills**
