@@ -86,29 +86,26 @@ A full-stack platform that lets small businesses upload Excel/CSV data and autom
 
 <p align="center">
 
-###  Languages  
+## 🧠 Languages  
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
 
-###  Data Science & Analysis  
+## 📊 Data Science & Analysis  
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0099C4?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-341A19?style=for-the-badge)
 ![Stata](https://img.shields.io/badge/Stata-0057B8?style=for-the-badge&logo=stata&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-EB3C00?style=for-the-badge&logo=microsoft&logoColor=white)
-![Bloomberg Terminal](https://img.shields.io/badge/Bloomberg_Terminal-000000?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 <br>
 
-###  Machine Learning / Econometrics  
-OLS, DiD (Difference-in-Differences), Panel Data (Fixed / Random Effects), Time Series Forecasting (ARIMA, TFT), Causal Inference, Statistical Inference
-
-<br>
-
-###  Cloud & AWS Ecosystem  
+## ☁️ Cloud & AWS Ecosystem  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -116,26 +113,36 @@ OLS, DiD (Difference-in-Differences), Panel Data (Fixed / Random Effects), Time 
 ![Athena](https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)  
-_AWS Certified AI Practitioner_
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+
+**_AWS Certified AI Practitioner_**
 
 <br>
 
-###  Tools  
+## 🛠️ Tools & Development  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 <br>
 
-###  GenAI, APIs & Visualization  
+## 💻 Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+<br>
+
+## 🤖 GenAI, APIs & Visualization  
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFB94B?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-<br>
 
 ###  Other  
 French (native), English (fluent)
