@@ -15,6 +15,19 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> **Featured Projects**
 
+## **1. Energy Demand & Price Forecasting — ML + Trading Pipeline**
+
+🔗 **GitHub:** [https://github.com/rav-lad/energy-demand-forecast](https://github.com/rav-lad/energy-demand-forecast)
+
+A complete forecasting and trading system trained on **700 days** of French electricity & weather data.
+
+**Highlights**
+
+* Designed a full ML pipeline (XGBoost, LightGBM, Random Forest, GRU) with strict leakage prevention
+* Engineered temporal, rolling and meteorological features
+* Achieved **R² = 0.686** and realistic **MAPE ≈ 30%**
+* Built and backtested a trading strategy delivering **Sharpe 1.65**, including costs and risk controls
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> **Local Agents with Ollama**
 
 ## **1. Scoring Agent — Real-Time Market Intelligence System**
@@ -55,19 +68,6 @@ The system integrates domain-specific agents (news and macro) into a unified res
 * Produces **structured analytical outputs** usable in systematic workflows  
 * Focus on **reproducibility, modularity, and extensibility**  
 * Fully **local via Ollama**, ensuring privacy and full control over models and data  
-
-## **3. Energy Demand & Price Forecasting — ML + Trading Pipeline**
-
-🔗 **GitHub:** [https://github.com/rav-lad/energy-demand-forecast](https://github.com/rav-lad/energy-demand-forecast)
-
-A complete forecasting and trading system trained on **700 days** of French electricity & weather data.
-
-**Highlights**
-
-* Designed a full ML pipeline (XGBoost, LightGBM, Random Forest, GRU) with strict leakage prevention
-* Engineered temporal, rolling and meteorological features
-* Achieved **R² = 0.686** and realistic **MAPE ≈ 30%**
-* Built and backtested a trading strategy delivering **Sharpe 1.65**, including costs and risk controls
 
 ## <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="25"> **Kaggle Competitions**
 
