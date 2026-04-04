@@ -15,24 +15,48 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> **Featured Projects**
 
-## **1. InsiderSignals — Insider Trading Intelligence Platform**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> **Local Agents with Ollama**
 
-🔗 **Website:** [https://insidersignals.cloud](https://insidersignals.cloud)
+## **1. Scoring Agent — Real-Time Market Intelligence System**
 
-A full-stack platform that processes and analyses **over 1,000,000 insider, political, and crypto-whale transactions**.
-Includes automated data ingestion, ML scoring and interactive dashboards for equity and event-driven screening.
+🔗 **GitHub:** https://github.com/rav-lad/scoring-agent
+
+A **local-first multi-agent system** designed to detect abnormal and potentially informed market activity in real time across crypto markets.
+
+The system combines statistical anomaly detection, behavioral wallet profiling, and agent-based reasoning to produce a **0–100 suspicion score**, along with structured investigation outputs.
 
 **Highlights**
 
-* Built end-to-end system: data ingestion (APIs, scraping, ETL), PostgreSQL storage, background workers
-* Developed an intelligent scoring agent combining behavioural features, anomaly detection and ML models
-* Delivered production-ready infrastructure (Docker, Traefik, GitHub Actions)
-* Built dashboards for unusual trades, insider clusters and market signals
-* Fully operational and actively used for real-world screening workflows
+* Built a fully **local architecture powered by Ollama**, ensuring privacy and low-latency inference
+* Designed a **multi-stage pipeline**: anomaly filtering → agent investigation → deterministic scoring
+* Monitors multiple data sources: **on-chain flows, mempool activity, and derivatives markets**
+* Implements specialized agents for **security checks, behavioral analysis, macro context, and quant validation**
+* Generates structured reports and **real-time webhook alerts** for high-risk events
+* Includes a **Rust-based terminal dashboard (TUI)** for live monitoring and system observability  
 
 ---
 
-## **2. Energy Demand & Price Forecasting — ML + Trading Pipeline**
+## **2. Agent Orchestrator — Multi-Agent Research System**
+
+🔗 **Orchestrator:** https://github.com/rav-lad/agent-orchestrator  
+🔗 **News Agent:** https://github.com/rav-lad/news-analyst  
+🔗 **Macro Agent:** https://github.com/rav-lad/macro-analyst  
+
+A modular **local-first orchestration framework** that coordinates specialized AI agents to produce structured, decision-ready analysis.
+
+The system integrates domain-specific agents (news and macro) into a unified research pipeline, enabling consistent and reproducible outputs.
+
+**Highlights**
+
+* Designed a **multi-agent orchestration layer** to coordinate agent execution and workflows  
+* Integrates specialized agents:
+  * **News Analyst** → extracts key events, narratives, and market-relevant signals from news flows  
+  * **Macro Analyst** → provides macroeconomic context and regime-level interpretation  
+* Produces **structured analytical outputs** usable in systematic workflows  
+* Focus on **reproducibility, modularity, and extensibility**  
+* Fully **local via Ollama**, ensuring privacy and full control over models and data  
+
+## **3. Energy Demand & Price Forecasting — ML + Trading Pipeline**
 
 🔗 **GitHub:** [https://github.com/rav-lad/energy-demand-forecast](https://github.com/rav-lad/energy-demand-forecast)
 
@@ -45,42 +69,7 @@ A complete forecasting and trading system trained on **700 days** of French elec
 * Achieved **R² = 0.686** and realistic **MAPE ≈ 30%**
 * Built and backtested a trading strategy delivering **Sharpe 1.65**, including costs and risk controls
 
----
 
-## **3. WheatVision — Satellite-Based Wheat Futures Prediction**
-
-🔗 **GitHub:** [https://github.com/rav-lad/wheat-sat](https://github.com/rav-lad/wheat-sat)
-
-A machine learning pipeline predicting CBOT wheat futures returns using **Sentinel-2 satellite imagery**, **ERA5 weather**, and **USDA crop maps**.
-
-**Highlights**
-
-* Processed NDVI/NDWI/NDMI vegetation indices for ~150 wheat zones across major US states
-* Integrated satellite, weather and futures data into a weekly panel dataset
-* Trained LightGBM/XGBoost models with strict walk-forward validation
-* Performed quantitative backtesting (IC, accuracy, F1, Sharpe) with extensive leakage tests
-* Full research pipeline with notebooks, scripts, and LaTeX paper
-
----
-
-## **4. DataExplain — Automated Data Analysis Platform (In Development)**
-
-🔗 **GitHub:** [https://github.com/rav-lad/DataExplain](https://github.com/rav-lad/DataExplain)
-
-A full-stack platform that lets small businesses upload Excel/CSV data and automatically receive **structured insights, KPIs, charts and a downloadable PDF report**, without needing a data analyst.
-
-**Highlights**
-
-* Backend: FastAPI, PostgreSQL, MinIO, Celery, Ollama/OpenAI
-* Frontend: React 18 + TypeScript + Vite
-* Three-agent architecture:
-
-  * **Ingestion Agent** → detects structure, issues, column types
-  * **Analysis Agent** → computes KPIs, insights, graphs
-  * **Report Agent** → generates professional PDF reports via WeasyPrint
-* Secure multi-project system with authentication, job tracking and file isolation
-* Docker Compose deployment with Nginx reverse proxy
----
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> **Skills**
 
