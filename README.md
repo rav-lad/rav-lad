@@ -28,7 +28,7 @@ A complete forecasting and trading system trained on **700 days** of French elec
 * Achieved **R² = 0.686** and realistic **MAPE ≈ 30%**
 * Built and backtested a trading strategy delivering **Sharpe 1.65**, including costs and risk controls
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Local Agents with Ollama** ![Ollama](https://img.shields.io/badge/Ollama-powered-000000?style=for-the-badge)
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Local Agents with Ollama** ![Ollama](https://img.shields.io/badge/Ollama-Local%20AI-000000?style=flat-square&logo=ollama&logoColor=white)
 
 ## **1. Scoring Agent — Real-Time Market Intelligence System**
 
@@ -140,17 +140,6 @@ A collection of my Kaggle competition work, including feature engineering, model
 French (native), English (fluent)
 
 </p>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rav-lad&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rav-lad&layout=compact&hide_border=true" height="170"/>
-</p>
-
----
 
 ##  **Let's Connect!**
 <br>
