@@ -28,7 +28,7 @@ A complete forecasting and trading system trained on **700 days** of French elec
 * Achieved **R² = 0.686** and realistic **MAPE ≈ 30%**
 * Built and backtested a trading strategy delivering **Sharpe 1.65**, including costs and risk controls
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> **Local Agents with Ollama**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Local Agents with Ollama** ![Ollama](https://img.shields.io/badge/Ollama-powered-000000?style=for-the-badge)
 
 ## **1. Scoring Agent — Real-Time Market Intelligence System**
 
@@ -86,14 +86,14 @@ A collection of my Kaggle competition work, including feature engineering, model
 
 <p align="center">
 
-## 🧠 Languages  
+##  Languages  
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
 
-## 📊 Data Science & Analysis  
+##  Data Science & Analysis  
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-0099C4?style=for-the-badge)
@@ -105,7 +105,7 @@ A collection of my Kaggle competition work, including feature engineering, model
 
 <br>
 
-## ☁️ Cloud & AWS Ecosystem  
+##  Cloud & AWS Ecosystem  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -119,7 +119,7 @@ A collection of my Kaggle competition work, including feature engineering, model
 
 <br>
 
-## 🛠️ Tools & Development  
+##  Tools & Development  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -131,15 +131,7 @@ A collection of my Kaggle competition work, including feature engineering, model
 
 <br>
 
-## 💻 Frontend  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-<br>
-
-## 🤖 GenAI, APIs & Visualization  
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+##  GenAI, APIs & Visualization  
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFB94B?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
@@ -153,14 +145,10 @@ French (native), English (fluent)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Stats**
 
-<div align="center">
-
-<a href="https://github.com/rav-lad/">
-  <img src="https://github-readme-stats.vercel.app/api?username=rav-lad&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rav-lad&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="rav-lad"/>
-</a>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rav-lad&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rav-lad&layout=compact&hide_border=true" height="170"/>
+</p>
 
 ---
 
