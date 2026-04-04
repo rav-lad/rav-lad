@@ -69,6 +69,17 @@ A complete forecasting and trading system trained on **700 days** of French elec
 * Achieved **R² = 0.686** and realistic **MAPE ≈ 30%**
 * Built and backtested a trading strategy delivering **Sharpe 1.65**, including costs and risk controls
 
+## <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="25"> **Kaggle Competitions**
+
+🔗 **Repository:** https://github.com/rav-lad/Kaggle-
+
+A collection of my Kaggle competition work, including feature engineering, model development, and evaluation pipelines across various datasets and problem types.
+
+| Competition | Link | Rank / Score |
+|------------|------|--------------|
+| Binary Classification with a Bank Dataset | https://www.kaggle.com/competitions/playground-series-s5e8 | Top 4% (129/3365)   |
+| Predicting the Beats-per-Minute of Songs | https://www.kaggle.com/competitions/playground-series-s5e9 | Top 7% (177/2581) |
+| Exploring Mental Health Data | https://www.kaggle.com/competitions/playground-series-s4e11 | Top 8% (223/2685) |
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> **Skills**
