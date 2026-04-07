@@ -13,24 +13,22 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> **Featured Projects**
+## **1. French Electricity Spot Price Forecasting — MLOps Pipeline**
 
-1. French Electricity Spot Price Forecasting — MLOps Pipeline
+🔗 **GitHub:** [https://github.com/rav-lad/energy-demand-forecast](https://github.com/rav-lad/energy-demand-forecast)
 
-🔗 GitHub: https://github.com/rav-lad/energy-demand-forecast
+A production-grade forecasting system trained on **28,405 hourly observations (Jan 2023 – Apr 2026)** of French electricity prices, demand, and weather data.
 
-A production-grade forecasting system trained on ~28,400 hourly observations (Jan 2023 – Apr 2026) of French electricity prices, demand, and weather data.
+**Highlights**
 
-Highlights
-
-Designed a full MLOps pipeline (data ingestion, feature engineering, training, inference, monitoring) with automated daily updates
-Implemented walk-forward validation (~800 days, ~19k predictions) ensuring strict no data leakage
-Engineered features combining price lags (24h, 48h, 168h), net load, renewables, weather, and seasonality
-Achieved strong predictive performance:
-XGBoost: MAE = 13.41 EUR/MWh, R² = 0.831
-Ridge: direction accuracy = 78.5%
-Built probabilistic forecasts (LightGBM quantile) with P10–P90 intervals (coverage ≈ 63%, avg width ≈ 33 EUR/MWh)
-Deployed a fully containerised system (Docker + Compose) with CI/CD, monitoring dashboard, and drift detection (PSI > 0.25 trigger)
+* Designed a full **MLOps pipeline** covering data ingestion, feature engineering, model training, inference, and monitoring
+* Implemented strict **walk-forward validation** over **~800 days (~19,000 prediction hours)** to eliminate look-ahead bias
+* Engineered features combining **price lags (24h, 48h, 168h)**, **net load**, **renewable penetration**, **weather**, and **calendar seasonality**
+* Achieved **MAE = 13.41 EUR/MWh** and **R² = 0.831** with **XGBoost**, outperforming the Ridge baseline (**MAE = 14.77**, **R² = 0.806**)
+* Reached **78.5% direction accuracy** with Ridge Regression as a fast, robust production baseline
+* Built **probabilistic forecasts** with **LightGBM quantile regression**, producing **P10/P50/P90 intervals** with **63% empirical coverage** and **33 EUR/MWh average interval width**
+* Deployed a fully containerised architecture with **6 Docker services**, **GitHub Actions CI/CD**, and a **4-page Streamlit monitoring dashboard**
+* Added drift monitoring and retraining alerts using **PSI > 0.25** or **20% degradation in 30-day MAE**
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Local Agents with Ollama** ![Ollama](https://img.shields.io/badge/Ollama-Local%20AI-000000?style=flat-square&logo=ollama&logoColor=white)
 
