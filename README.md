@@ -15,18 +15,22 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> **Featured Projects**
 
-## **1. Energy Demand & Price Forecasting — ML + Trading Pipeline**
+1. French Electricity Spot Price Forecasting — MLOps Pipeline
 
-🔗 **GitHub:** [https://github.com/rav-lad/energy-demand-forecast](https://github.com/rav-lad/energy-demand-forecast)
+🔗 GitHub: https://github.com/rav-lad/energy-demand-forecast
 
-A complete forecasting and trading system trained on **700 days** of French electricity & weather data.
+A production-grade forecasting system trained on ~28,400 hourly observations (Jan 2023 – Apr 2026) of French electricity prices, demand, and weather data.
 
-**Highlights**
+Highlights
 
-* Designed a full ML pipeline (XGBoost, LightGBM, Random Forest, GRU) with strict leakage prevention
-* Engineered temporal, rolling and meteorological features
-* Achieved **R² = 0.686** and realistic **MAPE ≈ 30%**
-* Built and backtested a trading strategy delivering **Sharpe 1.65**, including costs and risk controls
+Designed a full MLOps pipeline (data ingestion, feature engineering, training, inference, monitoring) with automated daily updates
+Implemented walk-forward validation (~800 days, ~19k predictions) ensuring strict no data leakage
+Engineered features combining price lags (24h, 48h, 168h), net load, renewables, weather, and seasonality
+Achieved strong predictive performance:
+XGBoost: MAE = 13.41 EUR/MWh, R² = 0.831
+Ridge: direction accuracy = 78.5%
+Built probabilistic forecasts (LightGBM quantile) with P10–P90 intervals (coverage ≈ 63%, avg width ≈ 33 EUR/MWh)
+Deployed a fully containerised system (Docker + Compose) with CI/CD, monitoring dashboard, and drift detection (PSI > 0.25 trigger)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Local Agents with Ollama** ![Ollama](https://img.shields.io/badge/Ollama-Local%20AI-000000?style=flat-square&logo=ollama&logoColor=white)
 
