@@ -156,7 +156,7 @@ French (native), English (fluent)
   <img src="https://img.shields.io/badge/Gmail-arno.vfn-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 
-<a href="https://devpost.com/2Fick" target="_blank">
+<a href="https://devpost.com/arno-vfn?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank">
   <img src="https://img.shields.io/badge/Devpost-Profile-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost Badge"/>
 </a>
 
